@@ -1,1 +1,1 @@
-Energetic and passionate computer science student seeking a Software Development Internship to leverage strong programming skills and academic background. Committed to enhancing user experiences and supporting cutting-edge online services.
+
