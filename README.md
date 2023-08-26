@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @samarthwachche
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science at Carleton University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-samarthwachche/samarthwachche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Energetic and passionate computer science student seeking a Software Development Internship to leverage strong programming skills and academic background. Committed to enhancing user experiences and supporting cutting-edge online services.
